@@ -12,7 +12,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "faye",
-    version = "0.1.1",
+    version = "0.1.2",
     author = "Hifumi1337",
     description = "Basic logging library created for any Python project with little overhead, an awesome progress bar, and customizable logging!",
     long_description = long_description,

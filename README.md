@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/assets/faye_logo.jpg" />
+    <img src="https://raw.githubusercontent.com/stience/faye/main/.github/assets/faye_logo.jpg" />
     <br />
     Faye
 </h1>
