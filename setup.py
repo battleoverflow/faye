@@ -1,3 +1,10 @@
+"""
+    Owner: Stience (https://github.com/stience)
+    Project: Faye (https://github.com/stience/faye)
+
+    Author(s): Hifumi1337
+"""
+
 import setuptools
 
 with open("README.md", "r", encoding = "utf-8") as fh:
@@ -5,7 +12,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "faye",
-    version = "0.1.0",
+    version = "0.1.1",
     author = "Hifumi1337",
     description = "Basic logging library created for any Python project with little overhead, an awesome progress bar, and customizable logging!",
     long_description = long_description,
