@@ -1,16 +1,16 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/stience/faye/main/.github/assets/faye_logo.jpg" />
+    <img src="https://raw.githubusercontent.com/cybersuki/faye/main/.github/assets/faye_logo.jpg" />
     <br />
     Faye
 </h1>
 
 Basic logging library created for any Python project with little overhead, an awesome progress bar, and customizable logging!
 
-This project was created as a logging necessesity for [Shinigami](https://github.com/stience/shinigami), but is compatible with almost any project.
+This project was created as a logging necessesity for [Shinigami](https://github.com/cybersuki/shinigami), but is compatible with almost any project.
 
 Faye can also be installed using pip!
 ```bash
-pip3 install faye
+pip install faye
 ```
 
 ## Example

@@ -1,13 +1,12 @@
 """
-    Owner: Stience (https://github.com/stience)
-    Project: Faye (https://github.com/stience/faye)
-
-    Author(s): Hifumi1337
+    Owner: CyberSuki (https://github.com/cybersuki)
+    Project: Faye
+    License: BSD 2-Clause
 """
 
 class Faye:
 
-    def log(msg: str = "Logger init", level: str = "INFO") -> str:
+    def log(self, msg: str = "Logger init", level: str = "INFO") -> str:
         """
         Generic logging method
 
@@ -23,7 +22,7 @@ class Faye:
         else:
             raise NameError
 
-    def progress(total: int = 0, description: str = ""):
+    def progress(self, total: int = 0, description: str = ""):
         """
         Progress bar built with tqdm
 
