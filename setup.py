@@ -1,5 +1,5 @@
 """
-    Owner: CyberSuki (https://github.com/cybersuki)
+    Owner: Hifumi1337 (https://github.com/hifumi1337)
     Project: Faye
     License: BSD 2-Clause
 """
@@ -11,12 +11,12 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "faye",
-    version = "0.1.3",
+    version = "0.1.4",
     author = "Hifumi1337",
     description = "Basic logging library created for any Python project with little overhead, an awesome progress bar, and customizable logging!",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/cybersuki/faye",
+    url = "https://github.com/hifumi1337/faye",
     classifiers = [
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: BSD License",
