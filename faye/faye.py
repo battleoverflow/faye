@@ -1,5 +1,5 @@
 """
-    Owner: Hifumi1337 (https://github.com/hifumi1337)
+    Owner: Shinigamilib (https://github.com/shinigamilib)
     Project: Faye
     License: BSD 2-Clause
 """
