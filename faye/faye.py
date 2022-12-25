@@ -1,6 +1,6 @@
 """
-    Owner: Shinigamilib (https://github.com/shinigamilib)
-    Project: Faye
+    Owner: Azazel Software
+    Learn more: https://github.com/AzazelSoftware
     License: BSD 2-Clause
 """
 
@@ -8,12 +8,15 @@ class Faye:
 
     def log(self, msg: str = "Logger init", level: str = "INFO") -> str:
         """
-        Generic logging method
+        Generic logging method that allows the user to set a message and log level.
 
-        msg: Logging message
-        level: Level message
+        @params
+        
+        msg (str): Log message
+        
+        level (str): Level string
 
-        rtype: str
+        @rtype: str
         """
 
         # Checks for empty string parameters
@@ -24,10 +27,15 @@ class Faye:
 
     def progress(self, total: int = 0, description: str = ""):
         """
-        Progress bar built with tqdm
+        Simple progress bar built with tqdm to allow quick terminal visualization.
 
-        total: The length of the progress bar
-        description: Description of the progress bar
+        @params
+
+        total (int): The length of the progress bar
+
+        description (str): Description to display beside the progress bar
+
+        @rtype: None
         """
 
         from tqdm import tqdm
