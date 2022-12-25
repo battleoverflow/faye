@@ -1,4 +1,4 @@
-<img src="assets/faye.jpg" />
+<img src="https://raw.githubusercontent.com/AzazelSoftware/faye/main/assets/faye.jpg" />
 
 Basic logging library with a customizable log message, progress bar, and more!
 
