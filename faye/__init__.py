@@ -1,5 +1,5 @@
 """
-    Owner: Hifumi1337 (https://github.com/hifumi1337)
-    Project: Faye
+    Owner: Azazel Software
+    Learn more: https://github.com/AzazelSoftware
     License: BSD 2-Clause
 """

@@ -1,6 +1,6 @@
 """
-    Owner: Hifumi1337 (https://github.com/hifumi1337)
-    Project: Faye
+    Owner: Azazel Software
+    Learn more: https://github.com/AzazelSoftware
     License: BSD 2-Clause
 """
 
@@ -11,12 +11,12 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "faye",
-    version = "0.1.4",
-    author = "Hifumi1337",
-    description = "Basic logging library created for any Python project with little overhead, an awesome progress bar, and customizable logging!",
+    version = "0.1.6",
+    author = "Azazel Software",
+    description = "Basic logging library with a customizable log message, progress bar, and more!",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/hifumi1337/faye",
+    url = "https://github.com/AzazelSoftware/faye",
     classifiers = [
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: BSD License",
