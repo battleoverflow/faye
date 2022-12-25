@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/AzazelSoftware/faye/main/assets/faye.jpg" />
+<img src="https://raw.githubusercontent.com/shinigamilib/faye/main/assets/faye.jpg" />
 
 Basic logging library with a customizable log message, progress bar, and more!
 
-This logging library was created specifically for [Shinigami (Python)](https://github.com/AzazelSoftware/shinigami-py), but you should have no issues integrating it into your codebase as long as you're running Python 3.
+This logging library was created specifically for [Shinigami (Python)](https://github.com/shinigamilib/shinigami-py), but you should have no issues integrating it into your codebase as long as you're running Python 3.
 
 The best way to utilize the Faye library is by using `pip`. You can install the library by running the following command:
 ```bash
@@ -23,4 +23,4 @@ print(Faye.log(msg="Faye is awesome!", level="CRITICAL"))
 print(Faye.progress(total=100, description="Downloading..."))
 ```
 
-Even though Faye should be compatible with most Python 3 projects, it is still in an early stage of development. This means Faye could be altered at any time. When a new release is available, it'll be announced on [Twitter](https://twitter.com/AzazelSoftware).
+Even though Faye should be compatible with most Python 3 projects, it is still in an early stage of development. This means Faye could be altered at any time.
