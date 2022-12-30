@@ -1,5 +1,5 @@
 """
-    Owner: Hifumi1337 (https://github.com/hifumi1337)
+    Owner: azazelm3dj3d (https://github.com/azazelm3dj3d)
     Project: Faye
     License: BSD 2-Clause
 """
@@ -11,8 +11,8 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "faye",
-    version = "0.1.7",
-    author = "Hifumi1337",
+    version = "0.1.8",
+    author = "azazelm3dj3d",
     description = "Basic logging library with a customizable log message, progress bar, and more!",
     long_description = long_description,
     long_description_content_type = "text/markdown",
