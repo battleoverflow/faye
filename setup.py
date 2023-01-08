@@ -1,6 +1,6 @@
 """
-    Owner: azazelm3dj3d (https://github.com/azazelm3dj3d)
-    Project: Faye
+    Project: Faye (https://github.com/CatherineFramework/faye)
+    Author: azazelm3dj3d (https://github.com/azazelm3dj3d)
     License: BSD 2-Clause
 """
 
@@ -11,7 +11,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "faye",
-    version = "0.1.8",
+    version = "0.1.9",
     author = "azazelm3dj3d",
     description = "Basic logging library with a customizable log message, progress bar, and more!",
     long_description = long_description,

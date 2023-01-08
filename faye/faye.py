@@ -1,12 +1,12 @@
 """
-    Owner: azazelm3dj3d (https://github.com/azazelm3dj3d)
-    Project: Faye
+    Project: Faye (https://github.com/CatherineFramework/faye)
+    Author: azazelm3dj3d (https://github.com/azazelm3dj3d)
     License: BSD 2-Clause
 """
 
 class Faye:
 
-    def log(self, msg: str = "Logger init", level: str = "INFO") -> str:
+    def log(msg: str = "Logger init", level: str = "INFO") -> str:
         """
         Generic logging method that allows the user to set a message and log level.
 
@@ -25,7 +25,7 @@ class Faye:
         else:
             raise NameError
 
-    def progress(self, total: int = 0, description: str = ""):
+    def progress(total: int = 0, description: str = ""):
         """
         Simple progress bar built with tqdm to allow quick terminal visualization.
 
