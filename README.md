@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/shinigamilib/faye/main/assets/faye.jpg" />
+<img src="https://raw.githubusercontent.com/azazelm3dj3d/faye/main/assets/faye.jpg" />
 
 Basic logging library with a customizable log message and progress bar!
 
