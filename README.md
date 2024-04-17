@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/azazelm3dj3d/faye/main/assets/faye.jpg" />
+<img src="https://raw.githubusercontent.com/battleoverflow/faye/main/assets/faye.jpg" />
 
 Basic logging library with a customizable log message and progress bar!
 
@@ -12,7 +12,7 @@ The library is currently limited due to it being updated on a necessity basis, b
 
 ```python
 # Import the Faye library
-from faye.faye import Faye
+from faye import Faye
 
 # Prints a "CRITICAL" log message to stdout
 print(Faye.log(msg="Faye is awesome!", level="CRITICAL"))

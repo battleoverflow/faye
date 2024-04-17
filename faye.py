@@ -1,11 +1,10 @@
 """
-    Project: Faye (https://github.com/azazelm3dj3d/faye)
-    Author: azazelm3dj3d (https://github.com/azazelm3dj3d)
+    Project: Faye (https://github.com/battleoverflow/faye)
+    Author: battleoverflow (https://github.com/battleoverflow)
     License: BSD 2-Clause
 """
 
 class Faye:
-
     def log(msg = "Logger init", level = None, color = False):
         """
         Generic logging method that allows the user to set a message and log level.
